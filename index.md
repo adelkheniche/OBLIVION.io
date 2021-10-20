@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# OBLIVION
 
-You can use the [editor on GitHub](https://github.com/adelkheniche/OBLIVION/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+oblivion project is a broche with led.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+the project start after i saw the oblivion movie, and really loved the props, one of them was simply a mettalic broche on their jackets 
+![d7lwkyh-3eed45a7-2f56-4b68-8adb-84218d256308](https://user-images.githubusercontent.com/12121516/116202839-51aaf700-a73b-11eb-8936-087ac67236fd.png)
+![oblivion screenshot](https://user-images.githubusercontent.com/12121516/116205723-51602b00-a73e-11eb-84bd-beb9082ee84f.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+so i decided to make a similare broche minimal but with LED ! :p 
+![OBLIVION](https://user-images.githubusercontent.com/12121516/116211452-195be680-a744-11eb-9233-8e2fc53536b4.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+the perfect version of this will have apa102 2020-rgb led
+a touch sensor for changing color mode 
+the µc part is on a second pcb inside the jacket (keeping the minimal appareance outside)
+a rechearging case (airpod style) 
 
-- Bulleted
-- List
+for the Version 0.1 
+it's 
+charlieplexing white led
+one pcb
+pogopin ready.
 
-1. Numbered
-2. List
+-this project should make me back on my feet on electronics and design.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adelkheniche/OBLIVION/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
