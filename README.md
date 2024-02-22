@@ -5,6 +5,7 @@
 ## Introduction
 
 Inspired by the captivating design of a metallic brooch from the movie *Oblivion*, the OBLIVION LED Brooch Project has grown from a simple idea into a sophisticated piece of wearable technology. Now at version 1.43, this project blends the aesthetic appeal of the original prop with modern electronics, including apa102 2020 RGB LEDs, an ATtiny microcontroller for dynamic lighting control, and innovative design techniques for both aesthetics and functionality.
+
 ![oblivion screenshot](https://user-images.githubusercontent.com/12121516/116205723-51602b00-a73e-11eb-84bd-beb9082ee84f.png)
 
 ## Project Evolution
