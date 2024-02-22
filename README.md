@@ -1,5 +1,7 @@
 # OBLIVION LED Brooch Project
-![CASE V1 3 FONDERIE BASED before back enclosure v3 YELLOW WOOD](https://github.com/adelkheniche/OBLIVION/assets/12121516/6971b31e-dab0-41e9-8682-0135ced04ab1)
+
+![image](https://github.com/adelkheniche/OBLIVION/assets/12121516/93b670d4-83b9-4899-9fad-57cd2a55a267) ![image](https://github.com/adelkheniche/OBLIVION/assets/12121516/3255ad92-f8b7-4b0d-b46f-817ea23c9f76)
+
 
 
 ## Introduction
@@ -21,17 +23,24 @@ The OBLIVION LED Brooch Project began with the objective of creating a wearable 
 
 The initial phase of the OBLIVION LED Brooch Project was focused on acquiring new skills and overcoming technical challenges related to working with miniature electronics, specifically the APA102 2020 LEDs.
 
-#### Learning Custom PCB Fabrication and Soldering
+#### Learning Custom PCB Fabrication and Soldering![PXL_20210723_194000389](https://github.com/adelkheniche/OBLIVION/assets/12121516/87372f12-c1b3-4a50-87aa-5af7491aa6e1)
+
 
 - **APA102 2020 LED Integration:** The project began with the goal of integrating APA102 2020 LEDs into the brooch design. These LEDs are known for their small size, making them ideal for compact projects but challenging to work with due to the precision required in soldering and PCB design.
 
 - **Custom PCB Design:** The initial step was designing a PCB for the APA102 2020 LEDs, which were new to me. To test their functionality and connectivity, I made a breakout board. This involved using a CNC 1418 to produce PCBs with fine traces, necessary for accurately mounting the LEDs. This approach helped in verifying the design before proceeding with manufacturing, aiming to save time and money.
+![PXL_20210527_114856377](https://github.com/adelkheniche/OBLIVION/assets/12121516/4a261bf6-5c68-4cda-8e28-a24efd33e374)
+![PXL_20210529_142113504](https://github.com/adelkheniche/OBLIVION/assets/12121516/230e45a6-bac7-4fa8-a90e-8c592fcd1d21)
 
 - **Soldering Challenges:** Given the small size of the APA102 2020 LEDs, traditional soldering methods were not feasible. To address this, a sitelamp was modified to serve as a soldering plate. This adaptation allowed for the precise control of temperature needed to solder such small components successfully.
 
 This initial stage was about mastering the skills necessary for the project, including custom PCB design for tiny components and developing a method to solder them reliably.
 
 ## Evolution to Version 1.43
+![PXL_20210728_140645725](https://github.com/adelkheniche/OBLIVION/assets/12121516/8d5d6564-8fbb-4f0a-bb2e-e9cbfc7b1576)
+![PXL_20211221_195855294](https://github.com/adelkheniche/OBLIVION/assets/12121516/df731b15-952c-4e7b-94ff-5604296b7137)
+![PXL_20210529_091937132](https://github.com/adelkheniche/OBLIVION/assets/12121516/f1cbf430-8c70-46c6-a166-009e5bb7d448)
+![PXL_20210707_074211500](https://github.com/adelkheniche/OBLIVION/assets/12121516/915647ca-eb59-42ec-a8cf-901b599166bc)
 
 From its inception, the project evolved through multiple iterations, leading to version 1.43. Each update brought enhancements in design, functionality, and user experience, reflecting a straightforward progression in the project's development.
 
