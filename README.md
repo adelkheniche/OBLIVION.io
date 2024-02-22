@@ -28,11 +28,19 @@ The initial phase of the OBLIVION LED Brooch Project was focused on acquiring ne
 
 - **APA102 2020 LED Integration:** The project began with the goal of integrating APA102 2020 LEDs into the brooch design. These LEDs are known for their small size, making them ideal for compact projects but challenging to work with due to the precision required in soldering and PCB design.
 
-- **Custom PCB Design:** The initial step was designing a PCB for the APA102 2020 LEDs, which were new to me. To test their functionality and connectivity, I made a breakout board. This involved using a CNC 1418 to produce PCBs with fine traces, necessary for accurately mounting the LEDs. This approach helped in verifying the design before proceeding with manufacturing, aiming to save time and money.
+- **Custom PCB Design:** The initial step was designing a PCB for the APA102 2020 LEDs, which were new to me. To test their functionality and connectivity, I made a breakout board. This involved using a CNC 1418 to produce PCBs with fine traces,
+![PXL_20210517_133838921](https://github.com/adelkheniche/OBLIVION.io/assets/12121516/c43b718d-dec4-4781-802e-6d3d446de593)
+![PXL_20210517_133758188](https://github.com/adelkheniche/OBLIVION.io/assets/12121516/70009cef-42d9-45e1-8a61-159259b18bd7)
+![PXL_20210517_152432493](https://github.com/adelkheniche/OBLIVION.io/assets/12121516/2194f9a1-ff12-45e2-8e8b-3c53687fd25c)
+
+
+-    necessary for accurately mounting the LEDs. This approach helped in verifying the design before proceeding with manufacturing, aiming to save time and money.
 ![PXL_20210527_114856377](https://github.com/adelkheniche/OBLIVION/assets/12121516/4a261bf6-5c68-4cda-8e28-a24efd33e374)
 ![PXL_20210529_142113504](https://github.com/adelkheniche/OBLIVION/assets/12121516/230e45a6-bac7-4fa8-a90e-8c592fcd1d21)
 
 - **Soldering Challenges:** Given the small size of the APA102 2020 LEDs, traditional soldering methods were not feasible. To address this, a sitelamp was modified to serve as a soldering plate. This adaptation allowed for the precise control of temperature needed to solder such small components successfully.
+- ![PXL_20210518_142144436](https://github.com/adelkheniche/OBLIVION.io/assets/12121516/d8dad4b8-fd2e-40db-917c-fdb4353e5212)
+![PXL_20210518_144758312](https://github.com/adelkheniche/OBLIVION.io/assets/12121516/d9fc9e5f-ee89-4bf6-a567-bf6a3b4ca220)
 
 This initial stage was about mastering the skills necessary for the project, including custom PCB design for tiny components and developing a method to solder them reliably.
 
@@ -56,6 +64,9 @@ As the project advanced, each version introduced new features, improved design, 
 ### Design and Manufacturing
 
 The project's design has evolved to a more refined aesthetic, maintaining the minimalist appeal of the original concept while integrating modern technology seamlessly. The use of a homemade PCB for the case and a professional-grade PCB for the badge ensures durability and quality, while the magnetic fixation system offers a user-friendly experience.
+
+
+
 
 ## Highlights of Version 1.43
 
